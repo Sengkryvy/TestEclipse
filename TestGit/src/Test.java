@@ -6,6 +6,8 @@ public class Test {
 		System.out.println("11:30");
 		System.out.println("sokhom branch");
 		System.out.println("Master");
+		System.out.println("Branch Sengkry");
+		System.out.println("Master");
 
 	}
 	
