@@ -5,6 +5,7 @@ public class Test {
 		System.out.println("@@@@@@");
 		System.out.println("11:30");
 		System.out.println("Branch Sengkry");
+		System.out.println("Master");
 	}
 	
 }
